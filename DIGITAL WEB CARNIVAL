@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Digital Web Carnival</title>
+    <!-- Add your CSS styles and JavaScript files here -->
+</head>
+
+<body>
+    <header>
+        <h1>Digital Web Carnival</h1>
+        <p>A Celebration of World W.W.W. Day</p>
+    </header>
+
+    <!-- Event Descriptions -->
+    <section id="about">
+        <h2>About the Carnival</h2>
+        <p>
+            Welcome to the Digital Web Carnival, an exciting event organized by Lingayas Institute of Management and Technology
+            to celebrate World W.W.W. Day. This carnival aims to promote awareness and understanding of web technologies,
+            encourage innovation, and foster thoughtful discussions on web privacy and data security.
+        </p>
+        <!-- Add more event descriptions and motives here -->
+    </section>
+
+    <!-- Programs Section -->
+    <section id="programs">
+        <h2>Programs</h2>
+
+        <!-- Program 1: Poster Presentation -->
+        <div class="event">
+            <h3>Poster Presentation</h3>
+            <p>Description: Showcase your knowledge and research on web technologies and innovations through visually engaging posters.</p>
+            <p>Theme: Digital Web Revolution - Shaping the Future of Connectivity</p>
+            <p>Time: [Specify Time]</p>
+            <p>Submission Guidelines: [Specify Guidelines]</p>
+            <p>Presentation Format: [Specify Format]</p>
+            <p>Judging Criteria: [Specify Criteria]</p>
+            <!-- Add more information about the Poster Presentation event -->
+        </div>
+
+        <!-- Program 2: Internet Scavenger Hunt -->
+        <div class="event">
+            <h3>Internet Scavenger Hunt</h3>
+            <p>Description: Embark on an interactive online journey to explore web history, innovations, and technology.</p>
+            <p>Time: [Specify Time]</p>
+            <p>Instructions: [Specify Instructions]</p>
+            <p>Scoring Pattern: [Specify Scoring]</p>
+            <!-- Add more information about the Internet Scavenger Hunt event -->
+        </div>
+
+        <!-- Program 3: Debate -->
+        <div class="event">
+            <h3>Debate - Reshaping Web Privacy</h3>
+            <p>Description: Engage in a thought-provoking debate on striking the balance between data security and user experience.</p>
+            <p>Time: [Specify Time]</p>
+            <p>Instructions: [Specify Instructions]</p>
+            <p>Judging Criteria: [Specify Criteria]</p>
+            <!-- Add more information about the Debate event -->
+        </div>
+
+    </section>
+
+    <!-- Registration Section -->
+    <section id="registration">
+        <h2>Registration</h2>
+        <p>Register for the Digital Web Carnival by filling out the form below:</p>
+        <!-- Add your registration form code here -->
+    </section>
+
+    <!-- Schedule Section -->
+    <section id="schedule">
+        <h2>Schedule - August 1</h2>
+        <p>Event Timing: 9:00 AM to 3:00 PM</p>
+        <!-- Add the detailed schedule of events for August 1 here -->
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>For any queries, join our TECH SAADHAKS WhatsApp group: [WhatsApp Group Link]</p>
+        <!-- Add more contact information if needed -->
+    </section>
+
+    <footer>
+        <p>© 2023 Digital Web Carnival. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
